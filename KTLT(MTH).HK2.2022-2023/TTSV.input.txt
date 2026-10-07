@@ -1,0 +1,7 @@
+6
+24280099 Phan Hoang Phuc 9.5 8.2 8.3 8.4
+24280034 Dang Thanh Huyen 9.6 9.6 9.5 9.8
+24280114 Do Quang Vu 9.4 3.6 6.5 3.3
+24280088 Tran Trinh Nhan 8.6 8.8 9.5 8.3
+24280076 Vo Quuynh Y 9.3 7.3 7.6 7.8
+24280045 Vuong Thanh Dat 9.3 9.4 7.3 7.5

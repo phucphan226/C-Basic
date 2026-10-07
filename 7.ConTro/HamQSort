@@ -1,0 +1,7 @@
+//Thuờng là áp dụng cho mảng
+// void qsort(array, số lượng phần tử, kích thước 1 phần tử, int (*comparator)(const void *, const void*))
+// Phần cuối là phải tự xây dựng hàm để thỏa 1 yêu cầu nào đó
+/* Hàm con:
+-Trả về <0 nếu đúng thứ tự sắp xếp mong muốn.
+-Trả về >0 nếu không đúng thứ tự sắp xếp mong muốn.
+*/

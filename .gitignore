@@ -1,0 +1,19 @@
+# VS Code và extension CPH
+.vscode/
+.cph/
+
+# File biên dịch
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+
+# Debug, core dump
+core
+*.dSYM/
+
+# Rác hệ điều hành
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+/*  data_type *a=(date_type*)malloc(so_byte_can_cap);
+    free(a);
+*/
+
+// Thuoc thu vien stdlib.h
+
+/*
+VD: Mang a kieu int co 5 phan tu
+int *a=(int*)malloc(n*sizeof(n));
+*/
